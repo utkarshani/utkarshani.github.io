@@ -1,0 +1,173 @@
+
+/* ================================================================
+    Author       : miniboss
+    Template Name: Eion - Personal Portfolio HTML Template
+    Tags: One Page portfolio, Creative Template,  professional, landing, HTML 
+    Version      : 1.0
+=================================================================*/
+/*===================================================
+                Responsive Css
+=====================================================*/
+@media only screen and (min-width:992px) and (max-width:1200px){
+
+}
+/*===========================================
+	Tab responsive
+=============================================*/
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	#main-menu ul li a {
+		line-height: 40px;
+	}
+	.site-header.sticky #main-menu ul li a {
+		line-height: 60px;
+	}
+	.site-header.sticky a.logo {
+		padding: 14px 0;
+	}
+	#main-menu ul li a {
+		line-height: 70px;
+		display: inline-block;
+	}
+	.single-progress {
+		margin-bottom: 20px;
+	}
+	.contact-right {
+		margin-top: 50px;
+	}
+	.blog-right-sidebar {
+		margin-top: 90px;
+	}
+}
+
+/*=========================================
+    SMart Phone Device
+===========================================*/
+@media only screen and (min-width: 300px) and (max-width: 767px){
+	h2 {
+		font-size: 17px;
+		letter-spacing: 1px;
+	}
+	.section-title p {
+		line-height: 21px;
+		font-size: 12px;
+	}
+	#main-menu ul li a {
+		font-size: 13px;
+		line-height: 40px;
+		display: inline-block;
+	}
+	.site-header {
+		background: transparent;
+		position: fixed;
+		z-index: 111111;
+		width: 100%;
+	}
+	.site-header.sticky #main-menu ul li a {
+		font-size: 13px;
+		line-height: 40px;
+		display: inline-block;
+	}
+	.navbar-right {
+		float: left;
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 100%;
+	}
+	#main-menu {
+		overflow: hidden;
+		background: #434334;
+	}
+	.section-title h2 {
+		font-size: 22px;
+		line-height: 32px;
+	}
+	p{
+		font-size: 13px;
+		line-height: 30px;
+	}
+	.mid-content h1 {
+		font-size: 26px;
+	}
+	.mid-content h3 {
+		font-size: 12px;
+	}
+	.progress-area h3 {
+		margin-top: 27px;
+	}
+	.service-wrapper {
+		margin-bottom: 45px;
+	}
+	.joy {
+		width: 100%;
+	}
+	ul.work-filter li {
+		font-size: 14px;
+		padding: 5px 5px;
+	}
+	.client-details > p {
+		padding: 0 0px; 
+	}
+	.client-details::before {
+		left: 0px;
+	}
+	.contact-right {
+		margin-top: 60px;
+	}
+	.blog-post-area h3 a {
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.blog-right-sidebar {
+		margin-top: 90px;
+	}
+	/*
+	blog single page
+*/
+	.single-blog-post-area h3 {
+		font-size: 15px;
+		line-height: 27px;
+	}
+	.tags-area ul li a {
+		font-size: 13px;
+		line-height: 22px;
+	}
+	.commennts-details{
+		display: inline-block;
+	}
+	.author-body-content p {
+		font-size: 12px;
+	}
+	#comment-reply .author-body-content p {
+		font-size: 12px;
+	}
+	#comment-reply {
+		margin-left: 0px; 
+	}
+	.tags-area a {
+		padding-top: 1px;
+	}
+}
+
+@media only screen and (min-width:480px) and (max-width: 767px){
+	.site-header {
+		background: transparent;
+		position: fixed;
+		z-index: 111111;
+		width: 100%;
+	}
+	.section-title h2 {
+		position: relative;
+		font-size: 25px;
+		line-height: 35px;
+	}
+	p{
+		font-size: 14px;
+	}
+	.mid-content h1 {
+		font-size: 37px;
+	}
+	.blog-post-area h3 a {
+		font-size: 17px;
+		line-height: 27px;
+	}
+}
