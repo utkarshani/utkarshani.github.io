@@ -248,7 +248,7 @@ a.logo {
 	z-index: 11;
 }
 .mid-content h1 {
-	color: #FFFFFF;
+	color: #fff;
 	font-size: 54px;
 	max-width: 900px;
 	margin-top: 0;
@@ -259,7 +259,7 @@ a.logo {
 	font-weight: 50;
 }
 .mid-content h1 span {
-	color: #FFFFFF;
+	color: #fff;
 	max-width: 900px;
 	margin-top: 0;
 	margin-bottom: .6rem;
