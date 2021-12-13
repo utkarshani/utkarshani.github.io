@@ -225,9 +225,9 @@ a.logo {
 .mid-overlay{
 	background: rgba(0, 0, 0, 0.66) none repeat scroll 0 0;
 	content: "";
-	height: 80%;
+	height: 100%;
 	left: 0;
-	position: relative;
+	position: absolute;
 	top: 0;
 	width: 100%;
 }
@@ -248,25 +248,25 @@ a.logo {
 	z-index: 11;
 }
 .mid-content h1 {
-	color: #fff;
-	font-size: 54px;
+	color: #FFFFFF;
+	font-size: 84px;
 	max-width: 900px;
 	margin-top: 0;
 	margin-bottom: .6rem;
 	margin-left: auto;
 	margin-right: auto;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-	font-weight: 50;
+	font-weight: 800;
 }
 .mid-content h1 span {
-	color: #fff;
+	color: #ffff95;
 	max-width: 900px;
 	margin-top: 0;
 	margin-bottom: .6rem;
 	margin-left: auto;
 	margin-right: auto;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-	font-weight: 50;
+	font-weight: 800;
 	margin-left: 16px;
 }
 .mid-content h3 {
