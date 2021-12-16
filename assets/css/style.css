@@ -20,6 +20,18 @@
     12.Blog page section
     13.Single blog page section
 =========================================================*/
+
+.column {
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  .column {
+    width: 50%;
+  }
+}
+
+
 body {
 	font-family: 'Raleway', sans-serif;
 	padding: 0px;
