@@ -21,15 +21,6 @@
     13.Single blog page section
 =========================================================*/
 
-.container {
-  display: flex;
-}
-
-.item {
-  flex: 1;
-}
-
-
 body {
 	font-family: 'Raleway', sans-serif;
 	padding: 0px;
