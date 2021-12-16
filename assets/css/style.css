@@ -21,6 +21,11 @@
     13.Single blog page section
 =========================================================*/
 
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
 body {
 	font-family: 'Raleway', sans-serif;
 	padding: 0px;
