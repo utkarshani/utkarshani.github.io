@@ -44,10 +44,37 @@ h6 {
 }
 
 ul,
+
+/*ul {
+  list-style: none;
+}*/
+
+/*li::before {
+  content: "• ";
+  color: black;
+}
+*/
+
 ol {
 	list-style: none;
 	margin: 0px;
 	padding: 0px;
+}
+
+ol {
+  list-style: none;
+  counter-reset: my-awesome-counter;
+}
+
+ol li {
+  counter-increment: my-awesome-counter;
+  margin: 0px;
+  padding: 10px;
+}
+
+ol li::before {
+  content: counter(my-awesome-counter) ". ";
+  color: black;
 }
 
 a,
@@ -81,6 +108,7 @@ p {
 	letter-spacing: 1.5px;
 	color: #666;
 	font-family: 'Raleway', sans-serif;
+	text-align: justify;
 }
 /*=================================================
 		Start Typhographicy
@@ -105,11 +133,11 @@ h2 {
 	background: #f9f9f9;
 }
 .section-padding{
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 .section-title-padding{
-	padding-bottom: 60px;
+	padding-bottom: 10px;
 }
 /*========================================
 	bootstrap common css customize
@@ -172,6 +200,15 @@ h2 {
 /*===========================================
 		Start header area
 =============================================*/
+
+.avatar {
+  vertical-align: middle;
+/*  width: 225px;*/
+  height: 225px;
+  border-radius: 10%; 
+  /*border-radius: 50%;*/
+}
+
 .site-header {
 	left: 0;
 	position: absolute;
@@ -202,7 +239,7 @@ a.logo {
 	padding: 14px 0;
 }
 #main-menu ul li a {
-	color: #fff;
+	color: #000;
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 90px;
@@ -218,19 +255,23 @@ a.logo {
 	line-height: 60px;
 }
 .mid-header-area {
-	background: rgba(0, 0, 0, 0) url("../images/birthday18.jpg") no-repeat fixed center center / cover ;
-	height: 100vh;
+	color: #fff;
+	background: rgba(0, 0, 0, 0) url("../images/whiteBackground.jpg") no-repeat fixed center center / cover ;
+	height: 60vh;
 	position: relative;
 }
-.mid-overlay{
-	background: rgba(0, 0, 0, 0.66) none repeat scroll 0 0;
+
+/*The profile picture background*/
+/*.mid-overlay{
+	background: rgba(23, 32, 42, 0.0) none repeat scroll 0 0;
+	background: rgba(23, 32, 42, 0.66) none repeat scroll 0 0;
 	content: "";
 	height: 100%;
 	left: 0;
 	position: absolute;
 	top: 0;
 	width: 100%;
-}
+}*/
 .mid-table {
 	display: table;
 	height: 100%;
@@ -248,18 +289,19 @@ a.logo {
 	z-index: 11;
 }
 .mid-content h1 {
-	color: #FFFFFF;
-	font-size: 84px;
+	color: #000;
+	font-size: 24px;
 	max-width: 900px;
 	margin-top: 0;
 	margin-bottom: .6rem;
 	margin-left: auto;
 	margin-right: auto;
-	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+	/*text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);*/
+	/*text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);*/
 	font-weight: 800;
 }
 .mid-content h1 span {
-	color: #ffff95;
+	color: #FFFFFF;
 	max-width: 900px;
 	margin-top: 0;
 	margin-bottom: .6rem;
@@ -267,17 +309,17 @@ a.logo {
 	margin-right: auto;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 	font-weight: 800;
-	margin-left: 16px;
+	margin-left: 5px;
 }
 .mid-content h3 {
 	padding: 6px 5px;
-	color: #fff;
+	color: #000; /*#fff*/
 	font-weight: 600;
 	text-transform: uppercase;
-	font-size: 17px;
+	font-size: 12px;
 	display: inline-block;
-	border-top: 2px solid #ffff95;
-	border-bottom: 2px solid #ffff95;
+	border-top: 2px solid #000 /*#ffff95*/;
+	border-bottom: 2px solid #000 /*#ffff95*/;
 }
 .arrow-down {
 	bottom: 40px;
@@ -322,6 +364,37 @@ a.logo {
 /*==========================================
 		about area
 ============================================*/
+
+#page
+{
+	overflow: hidden;
+	padding: 5em 5em 0em 5em;
+}
+
+#content_right
+{
+	float: right;
+	width: 60%;
+}
+
+#content_left
+{
+	float: left;
+	width: 40%;
+}
+
+#content_left_other
+{
+	float: left;
+	width: 30%;
+}
+
+#content_right_other
+{
+	float: right;
+	width: 70%;
+}
+
 .about-details {
 	margin-bottom: 50px;
 }
@@ -672,25 +745,25 @@ input.controler {
 ========================================*/
 footer.footer-area {
 	background: #000;
-	padding: 90px 0px;
+	padding: 5px 0px;
 }
 .footer-inner-content p {
 	color: #fff;
 }
 .footer-social-icon ul li {
 	display: inline-block;
-	margin-right: 10px;
+	margin-right: 2px;
 }
 .footer-social-icon ul li:last-child{
 	margin-right: 0px;
 }
 .footer-social-icon ul li a {
-	padding: 9px;
+	padding: 1px;
 	color: #ffff95;
-	font-size: 25px;
+	font-size: 5px;
 }
 .footer-social-icon {
-	margin-top: 25px;
+	margin-top: 5px;
 }
 /*=======================================
 		blog page
@@ -702,7 +775,7 @@ footer.footer-area {
 	overflow: hidden;
 }
 .blog-banner-area {
-	background:#000;
+	background:#fff;
 	padding: 120px 0px;
 	position: relative;
 }
