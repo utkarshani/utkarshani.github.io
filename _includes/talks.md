@@ -8,6 +8,7 @@
   <li>Guest Lecture for CSCE 791 Seminar in Advances in Computing at University of South Carolina, December 2024. <a href="https://youtu.be/aFYlBKGcbFA?feature=shared">Video</a></li>
   <br />
   <li>Invited Speaker at Shell Technology Center, Houston, Texas, July 2024.</li>
+  <br />
 </ul>
 
 
