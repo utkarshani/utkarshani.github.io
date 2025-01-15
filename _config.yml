@@ -1,18 +1,21 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois Urbana-Champaign
-affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+title: Utkarshani Jaimini
+position: Ph.D. candidate
+affiliation: AI Institute, University of South Carolina
+affiliation_link: https://aiisc.ai/
+affiliation_logo: ./assets/img/AIISClogo.png
+email: ujaimini (at) email.sc.edu
+
 
 # Theme
 remote_theme: yaoyao-liu/minimal-light
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
+keywords: Utkarshani, Utkarshini Jaimini, Utkarshani Jaimini, Causal Neuro-symbolic AI
+canonical: https://utkarshani.github.io
+description: Utkarshani Jaimini is a Ph.D. candidate at the AI Institute, University of South Carolina, 
+advised by Dr. Amit Sheth. Her research focuses on advancing Neuro-symbolic AI by integrating causal 
+reasoning to improve explainability, robustness, and human-like understanding in AI systems.
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
@@ -22,22 +25,22 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=qKQTw0MAAAAJ
+linkedin: https://www.linkedin.com/in/utkarshanijaimini/
+github_link: https://github.com/utkarshani
+# twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: https://img.yliu.me/avatar_new.jpg
+avatar: ./assests/img/ProfilePicture_Utkarshani.jpeg
 
 # Footnotes
-footnote: Feel free to use my website's source code.
+footnote: The template has been adopted from 
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+# clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
 
 # The following files will be removed from the generated website.
 exclude:
