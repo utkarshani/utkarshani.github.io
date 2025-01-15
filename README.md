@@ -4,6 +4,7 @@ Personal website
 
 ### Acknowledgements
 This template is forked from the repository of yaoyao-liu.github.io - https://github.com/yaoyao-liu/yaoyao-liu.github.io/tree/main
+
 Please refer to following links for information on installation and use: 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
 
