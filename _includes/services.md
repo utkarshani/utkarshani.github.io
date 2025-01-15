@@ -5,7 +5,7 @@
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Workshop organizer on <a href="https://sites.google.com/view/causalnesy/">Causal Neuro-Symbolic AI</a> at <a href="https://2025.eswc-conferences.org/">Extended Semantic Web Conference (ESWC) 2025</a></li>
+  <li><a href="https://sites.google.com/view/causalnesy/">Causal Neuro-Symbolic AI</a> Workshop organizer held at <a href="https://2025.eswc-conferences.org/">Extended Semantic Web Conference (ESWC) 2025</a></li>
   <li>Organizer and Moderator: <a href="https://www.linkedin.com/pulse/casy-2-practical-way-look-collaborative-assistants-srivastava/">Conference on Collaboration Assistants for Society (CASY)</a>, AI Institute hosted conference at University of South Carolina 2020 - 2021</li>
 </ul>
 
