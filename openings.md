@@ -4,7 +4,7 @@ title: Openings
 permalink: /openings/
 ---
 
-<h2 style="margin: 60px 0px 10px;">Openings</h2>
+<!-- <h2 style="margin: 60px 0px 10px;">Openings</h2>
 
 
 Thanks for your interest in joining my research group and collaborating with me. I am actively seeking self-motivated **PhD students**, **visiting students**, and **independent study students**. Candidates with a strong background in **computer vision**, **machine learning**, or **artificial intelligence** are highly encouraged to apply.
@@ -27,4 +27,4 @@ I always welcome visiting students and independent study students for collaborat
 
 <strong>Email:</strong> <email><a href="mailto:lyy+apply@g.illinois.edu">lyy+apply@g.illinois.edu</a></email>
 <br>
-<strong>Office:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">Room 5125, 614 E. Daniel St., Champaign, IL 61820</a>
+<strong>Office:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">Room 5125, 614 E. Daniel St., Champaign, IL 61820</a> -->
