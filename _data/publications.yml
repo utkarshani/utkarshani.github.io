@@ -38,7 +38,7 @@ main:
     image: https://img.yliu.me/teaser/dst.png
     #notes: Spotlight
     
- - title: "Causal Neurosymbolic AI: A Synergy Between Causality and Neurosymbolic Methods"
+  - title: "Causal Neurosymbolic AI: A Synergy Between Causality and Neurosymbolic Methods"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: IEEE Intelligent Systems
     conference: IEEE Intelligent Systems Volume 3 Issue 3, 2024
@@ -46,7 +46,7 @@ main:
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/journals/expert/JaiminiHS24.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png  
-    
+      
   - title: "Visual Causal Question and Answering with Knowledge Graph Link Prediction"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: ISWC
@@ -83,7 +83,7 @@ main:
     #code: https://github.com/yaoyao-liu/online-placebos
     #bibtex: https://dblp.org/rec/journals/expert/JaiminiHS24.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png  
-  
+    
   - title: "Causal AI for Web and Healthcare"
     authors: <strong>Utkarshani Jaimini</strong>, Usha Lokala, Kaushik Roy, Amit Sheth
     conference_short: WWW
@@ -93,7 +93,7 @@ main:
     bibtex: https://dblp.org/rec/conf/www/FiondaHAACCC0DE23.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png 
 
- - title: "An Ontology Design Pattern for Representing Causality"
+  - title: "An Ontology Design Pattern for Representing Causality"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: WOP@ISWC
     conference: 14th Workshop on Ontology Design and Patterns – International Semantic Web Conference <strong>(ISWC)</strong>, 2023
@@ -121,7 +121,7 @@ main:
     bibtex: https://dblp.org/rec/journals/internet/JaiminiS22.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png 
 
-- title: "MetaverseKG: Knowledge Graph for Engineering and Design Application in Industrial Metaverse"
+  - title: "MetaverseKG: Knowledge Graph for Engineering and Design Application in Industrial Metaverse"
     authors: <strong>Utkarshani Jaimini</strong>, Tongtao Zhang, Georgia Olympia Brikis
     conference_short: ISWC
     conference: International Semantic Web Conference <strong>(ISWC)</strong>, 2022
@@ -130,7 +130,7 @@ main:
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiZB22.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png 
 
-- title: "Reasoning over personalized healthcare knowledge graph: a case study of patients with allergies and symptoms"
+  - title: "Reasoning over personalized healthcare knowledge graph: a case study of patients with allergies and symptoms"
     authors: Amelie Gyrard, <strong>Utkarshani Jaimini</strong>, Manas Gaur, Saeedeh Shekharpour, Krishnaprasad Thirunarayan, Amit Sheth
     conference_short: Book Chapter
     conference: Semantic Models in IoT and Ehealth Applications
@@ -139,7 +139,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:lWe9iSOiBTwJ:scholar.google.com/&output=citation&scisdr=ClExlcfJEIiRnDse6YY:AFWwaeYAAAAAZ4gY8YYgul4zGrfMb02by4xDlq0&scisig=AFWwaeYAAAAAZ4gY8UhuV7wk0HiTuI7PRhZ0JRw&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
     image: https://img.yliu.me/placebos_wacv24.png 
 
-- title: "Personalized Digital Phenotype Score, Healthcare Management and Intervention Strategies Using Knowledge Enabled Digital Health Framework for Pediatric Asthmas"
+  - title: "Personalized Digital Phenotype Score, Healthcare Management and Intervention Strategies Using Knowledge Enabled Digital Health Framework for Pediatric Asthmas"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth
     conference_short: Book Chapter
     conference: Recent Advances in Asthma Research and Treatments
@@ -148,7 +148,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:H4-gr_v41HwJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsdg-s:AFWwaeYAAAAAZ4gbm-sHEcIHB7FzPQEdGpLKPE8&scisig=AFWwaeYAAAAAZ4gbm8kM_4BTdcnGUPJFQspEyjE&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
     image: https://img.yliu.me/placebos_wacv24.png   
 
-- title: "Personalized Healthcare and Causal Intervention"
+  - title: "Personalized Healthcare and Causal Intervention"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth, Krishnaprasad Thirunarayan, Maninder Kalra, Marco Valtorta
     conference_short: ML4H
     conference: 6th Machine Learning for Health <strong>(ML4H)</strong> workshop, 34th Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2020
@@ -156,8 +156,8 @@ main:
     #code: https://github.com/yaoyao-liu/online-placebos
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:D0x6PU9hR5IJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsaMa4:AFWwaeYAAAAAZ4gcKa6qDmdTgLxTtXPjPRUryPA&scisig=AFWwaeYAAAAAZ4gcKdC0nsoJ-J14iWmvxEb0lJ8&scisf=4&ct=citation&cd=-1&hl=en&authuser=1    
     image: https://img.yliu.me/placebos_wacv24.png     
-    
-- title: "Is it Safe for My Child’s Asthma?"
+      
+  - title: "Is it Safe for My Child’s Asthma?"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth, Krishnaprasad Thirunarayan, Maninder Kalra, Marco Valtorta
     conference_short: IC2S2
     conference: 6th International Conference on Computational Social Science, <strong>(IC2S2)</strong>, 2020
@@ -166,7 +166,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:D0x6PU9hR5IJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsaMa4:AFWwaeYAAAAAZ4gcKa6qDmdTgLxTtXPjPRUryPA&scisig=AFWwaeYAAAAAZ4gcKdC0nsoJ-J14iWmvxEb0lJ8&scisf=4&ct=citation&cd=-1&hl=en&authuser=1    
     image: https://img.yliu.me/placebos_wacv24.png     
 
-- title: "Determination of personalized asthma triggers from multimodal sensing and a mobile app: observational study"
+  - title: "Determination of personalized asthma triggers from multimodal sensing and a mobile app: observational study"
     authors: Revathy Venkataramanan, Krishnaprasad Thirunarayan, <strong>Utkarshani Jaimini</strong>, Dipesh Kadariya, Hong Yung Yip, Maninder Kalra, Amit Sheth
     conference_short: JMIR
     conference: JMIR pediatrics and parenting <strong>(JMIR)</strong>, Volume 2 Issue 1, 2019
@@ -175,7 +175,7 @@ main:
     bibtex: https://dblp.org/rec/journals/corr/abs-1811-10073.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png     
 
-- title: "How Is My Child’s Asthma?” digital phenotype and actionable insights for pediatric asthma"
+  - title: "How Is My Child’s Asthma?” digital phenotype and actionable insights for pediatric asthma"
     authors: <strong>Utkarshani Jaimini</strong>, Krishnaprasad Thirunarayan, Maninder Kalra, Revathy Venkataraman, Dipesh Kadariya, Amit Sheth
     conference_short: JMIR
     conference: JMIR pediatrics and parenting <strong>(JMIR)</strong>, Volume 1 Issue 2, 2018
@@ -184,7 +184,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0njBsf249w8J:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsYBCI:AFWwaeYAAAAAZ4geHCJ6gwy2X3LHX6f4s9fosEk&scisig=AFWwaeYAAAAAZ4geHKoreolt-JX3JFQrrhsRhyk&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
     image: https://img.yliu.me/placebos_wacv24.png     
 
-- title: "How will the internet of things enable augmented personalized health?"
+  - title: "How will the internet of things enable augmented personalized health?"
     authors: Amit Sheth, <strong>Utkarshani Jaimini</strong>, Hong Yung Yip
     conference_short: IEEE intelligent systems
     conference: IEEE intelligent systems, Volume 33 Issue 1, 2018
@@ -193,7 +193,7 @@ main:
     bibtex: https://dblp.org/rec/journals/expert/ShethJY18.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png     
 
-- title: "Correlating Multimodal Signals with Asthma Control in Children Using kHealth Personalized Digital Health System"
+  - title: "Correlating Multimodal Signals with Asthma Control in Children Using kHealth Personalized Digital Health System"
     authors: Maninder S Kalra, Amit Sheth, Tanvi Banerjee, <strong>Utkarshani Jaimini</strong>, Dipesh Kadariya, Vaikunth Sridharan, Krishnaprasad Thirunarayam, Revathy Venkataramanan, Hong Yung Yip
     conference_short: ATS
     conference: American Thoracic Society <strong>ATS</strong> A60. PEDIATRIC ALLERGY AND ASTHMA, 2018
@@ -201,8 +201,8 @@ main:
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CbGR85PLSkMJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsZbEE:AFWwaeYAAAAAZ4gfdEG4VBTfP8g9Vxzitg-Kdxs&scisig=AFWwaeYAAAAAZ4gfdDasXV2iHwd8nmRyqqrKjf0&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
     image: https://img.yliu.me/placebos_wacv24.png    
-    
-- title: "Feasibility of recording sleep quality and sleep duration using fitbit in children with asthma"
+      
+  - title: "Feasibility of recording sleep quality and sleep duration using fitbit in children with asthma"
     authors: Amit Sheth, Hong Y Yip, <strong>Utkarshani Jaimini</strong>, Dipesh Kadariya, Vaikunth Sridharan, Revathy Venkataramanan, Tanvi Banerjee, Krishnaprasad Thirunarayan, Maninder Kalra
     conference_short: SLEEP 
     conference: SLEEP Society Meeting<strong>SLEEP</strong> 2018
@@ -211,7 +211,7 @@ main:
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CbGR85PLSkMJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsZbEE:AFWwaeYAAAAAZ4gfdEG4VBTfP8g9Vxzitg-Kdxs&scisig=AFWwaeYAAAAAZ4gfdDasXV2iHwd8nmRyqqrKjf0&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
     image: https://img.yliu.me/placebos_wacv24.png    
 
-- title: "Augmented personalized health: How smart data with IoTs and AI is about to change healthcare"
+  - title: "Augmented personalized health: How smart data with IoTs and AI is about to change healthcare"
     authors: Amit Sheth, <strong>Utkarshani Jaimini</strong>, Krishnaprasad Thirunarayan, Tanvi Banerjee
     conference_short: RTSI
     conference: IEEE international forum on research and technologies for society and industry <strong>RTSI</strong>, 2017
@@ -220,7 +220,7 @@ main:
     bibtex: https://dblp.org/rec/conf/rtsi/ShethJTB17.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png    
 
-- title: "A multisensory approach to monitor bariatric patient’s postsurgical behavior and lessen weight recidivism"
+  - title: "A multisensory approach to monitor bariatric patient’s postsurgical behavior and lessen weight recidivism"
     authors: Sarah Sohail, Joon Shim, Revathy Venkataramanan, <strong>Utkarshani Jaimini</strong>, Dene Berman, Priti Parikh, Amit Sheth
     conference_short: Journal
     conference: Surgery for Obesity and Related Diseases Volume 13 Issue 10, 2017
@@ -229,7 +229,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:9AMg6iA0qNgJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsmyJY:AFWwaeYAAAAAZ4gg0JYYTPmTYzpSIKO2yhTq34U&scisig=AFWwaeYAAAAAZ4gg0JIn9HeXMfi5l8j-cEP32rA&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
     image: https://img.yliu.me/placebos_wacv24.png 
 
-- title: "PhD forum: Multimodal IoT and EMR based smart health application for asthma management in children"
+  - title: "PhD forum: Multimodal IoT and EMR based smart health application for asthma management in children"
     authors: <strong>Utkarshani Jaimini</strong>
     conference_short: SMARTCOMP
     conference: IEEE International Conference on Smart Computing <strong>(SMARTCOMP)</strong>, 2017
@@ -238,7 +238,7 @@ main:
     bibtex: https://dblp.org/rec/conf/smartcomp/Jaimini17.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png    
 
-- title: "Investigation of an Indoor Air Quality Sensor for Asthma Management in Children"
+  - title: "Investigation of an Indoor Air Quality Sensor for Asthma Management in Children"
     authors: <strong>Utkarshani Jaimini</strong>
     conference_short: Sensor Letters
     conference: IEEE Sensor Letters Volume 1 Issue 2, 2017
@@ -247,7 +247,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xiliZ07leg0J:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsni_0:AFWwaeYAAAAAZ4ghk_01WxaGCSs04hxGIXUYeFY&scisig=AFWwaeYAAAAAZ4ghk3y_ANy7VkytcFh-dEY3B00&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
     image: https://img.yliu.me/placebos_wacv24.png  
 
-- title: "Research network analyses of Indian computer science researchers: Problems and solutions"
+  - title: "Research network analyses of Indian computer science researchers: Problems and solutions"
     authors: <strong>Utkarshani Jaimini</strong>, Varun Kumar Ojha, Millie Pant, Ajith Abraham
     conference_short: INDIACom
     conference: IEEE International Conference on Computing for Sustainable Global Development <strong>(INDIACom)</strong>, 2015
@@ -256,7 +256,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ttt8bPQCyGUJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDskC1A:AFWwaeYAAAAAZ4giE1Dbr6CsXiPmHTOuFuXI0FA&scisig=AFWwaeYAAAAAZ4giE4eQv_JjuIicc7BffIaBuTo&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
     image: https://img.yliu.me/placebos_wacv24.png    
 
-- title: "Wisdom application in Swarm: A WisSwarm Approach"
+  - title: "Wisdom application in Swarm: A WisSwarm Approach"
     authors: <strong>Utkarshani Jaimini</strong>, Vinod Kumar Panchal
     conference_short: ICROIT
     conference: IEEE International Conference on Reliability Optimization and Information Technology <strong>(ICROIT)</strong>, 2014
@@ -265,7 +265,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:VAq05d5btsEJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDskfyA:AFWwaeYAAAAAZ4giZyBdWV0Iuo4wHI6W1XoJG8U&scisig=AFWwaeYAAAAAZ4giZ9I2vxijASHiSPUUgzDgY6M&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1    
     image: https://img.yliu.me/placebos_wacv24.png  
 
-- title: "Swarm Intelligence computational paradigm"
+  - title: "Swarm Intelligence computational paradigm"
     authors: <strong>Utkarshani Jaimini</strong>, Vinod Kumar Panchal
     conference_short: C2SPCA
     conference: IEEE International Conference on Emerging Trends in Communication, Control, Signal Processing and Computing Applications <strong>(C2SPCA)</strong>, 2013
