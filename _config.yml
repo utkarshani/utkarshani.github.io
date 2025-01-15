@@ -6,6 +6,9 @@ affiliation_link: https://www.illinois.edu/
 affiliation_logo: ./assets/img/illinois.svg
 email: lyy (at) illinois.edu
 
+# Theme
+remote_theme: yaoyao-liu/minimal-light
+
 # Search Engine Optimization (SEO)
 keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
 canonical: https://yaoyaoliu.web.illinois.edu
