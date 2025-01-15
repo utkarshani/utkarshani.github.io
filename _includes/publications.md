@@ -50,13 +50,14 @@
 
 {% endfor %}
 
+<!--  
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://img.yliu.me/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
-<!--   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+ <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.html">Meta-Transfer Learning for Few-Shot Learning</a></div>
       <div class="author">Qianru Sun*, <strong>Yaoyao Liu*</strong>, Tat-Seng Chua, Bernt Schiele <br> (* Equal contribution)</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em>
@@ -69,7 +70,7 @@
 <br>
 <strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qi2PSmEAAAAJ&authuser=1&citation_for_view=Qi2PSmEAAAAJ:Tyk-4Ss8FVUC"><i id="total_citation_mtl">800+</i><i style="color:#e74d3c; font-weight:600"> Citations • </i></a><a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl">600+</i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></a></strong>
 <br>
-<strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2024&vq=en&cstart=60"><i>Top 100 Most Cited CVPR Papers over the Last Five Years</i></a></strong> -->
+<strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2024&vq=en&cstart=60"><i>Top 100 Most Cited CVPR Papers over the Last Five Years</i></a></strong> 
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
   var startext = document.getElementById("githubstars_mtl");
@@ -97,7 +98,7 @@
   </div>
 </div>
 </li>
-
+-->
 </ol>
 </div>
 
