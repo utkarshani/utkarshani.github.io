@@ -5,59 +5,68 @@
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Website Chair, <a href="https://bmvc2024.org/people/organisers/"><autocolor>The British Machine Vision Conference (BMVC)</autocolor></a> <a href="https://bmvc2022.org/people/organisers/"><autocolor>2022</autocolor></a>-<a href="https://bmvc2024.org/people/organisers/"><autocolor>2024</autocolor></a></li>
-  <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li>
+  <li>Workshop organizer on <a href="https://sites.google.com/view/causalnesy/">Causal Neuro-Symbolic AI</a> at <a href="https://2025.eswc-conferences.org/">Extended Semantic Web Conference (ESWC) 2025</a>-</li>
+  <li>Organizer and Moderator: <a href="https://www.linkedin.com/pulse/casy-2-practical-way-look-collaborative-assistants-srivastava/">Conference on Collaboration Assistants for Society (CASY)</a>, AI Institute hosted conference at University of South Carolina 2020 - 2021</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Area Chairs</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024-2025</autocolor></a></li>
-  <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
-  <li><a href="https://neurips.cc/Conferences/2024"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
-  <li><a href="https://icml.cc/Conferences/2025"><autocolor>International Conference on Machine Learning (ICML) 2025</autocolor></a></li>
-  <li><a href="https://iclr.cc/Conferences/2025"><autocolor>International Conference on Learning Representations (ICLR) 2024-2025</autocolor></a></li>
-  <li><a href="https://aistats.org/aistats2025/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023-2025</autocolor></a></li>
-  <li><a href="https://www.auai.org/uai2024/"><autocolor>The Conference on Uncertainty in Artificial Intelligence (UAI) 2023-2025</autocolor></a></li>
-  <li><a href="https://2024.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2024</autocolor></a></li>  
-  <li><a href="https://bmvc2024.org/"><autocolor>The British Machine Vision Conference (BMVC) 2023-2024</autocolor></a></li>
+  <li>Area Chair: Women in Machine Learning <stong>(WiML)</stong> at Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong> 2022</li>
+  <li>Session Chair: lead a research roundtable on “Causality and inductive bias for stability, robustness, and generalization and detecting failure modes of machine learning systems”, at <strong>Machine Learning for Health (ML4H)</strong> 2021</li>
+  <li>Session Chair: Health on the Web track, <strong>The Web Conference</strong> 2020></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Senior Program Committee</h4>
+<h4 style="margin:0 10px 0;">Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://aaai.org/Conferences/AAAI-25/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2025</autocolor></a></li>
-  <li><a href="https://ijcai-21.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021</autocolor></a></li>
+  <li><strong>AI4PH</strong>: AI for Public Health (AI4PH) Workshop at International Conference on Learning Representation <strong>(ICLR)</strong> 2021</li>
+  <li><strong>SMDS</strong>: IEEE International Conference on Smart Data Services, Causal Learning track 2021</li>
+  <li><strong>CASY</strong>: Conference on Collaboration Assistants for Society, 2020-2021</li>
+  <li><strong>KiML</strong>: ACM Knowledge Discovery and Data Mining <strong>(KDD)</strong>, Knowledge-Infused Mining and Learning (KiML) Workshop, 2020-2021</li>
+  <li><strong>The Web Conference</strong>: Information on the Web and Society track, 2021-2022</li>
+  <li><strong>The Web Conference</strong>: Health on the Web track, 2018 and 2020</li>
+  <li><strong>SSN</strong>: International Semantic Sensor Network (SSN) workshop series at International Semantic Web Conference <strong>(ISWC)</strong> 2018-2019</li>
+  <li><strong>SAW</strong>: International Workshop on Sensors and Actuators on the Web (SAW) 2019</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+<ul style="margin:0 0 20px;">
+  <li>Nature Digital Medicine</li>
+  <li>IEEE Sensors</li>
+  <li>Springer Nature Scientific reports</li>
+  <li>IEEE Internet Computing</li>
+  <li>Transactions on Fuzzy Systems</li>
+  <li>Semantic Web Journal</li>
+  <li>Journal of Web Semantics</li>
+  <li>JMIR- Journal of Medical Internet Research</li>
+  </li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2023.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021-2023</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-  <li><a href="https://neurips.cc/Conferences/2023"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2020-2023</autocolor></a></li>
-  <li><a href="https://icml.cc/Conferences/2024"><autocolor>International Conference on Machine Learning (ICML) 2021-2024</autocolor></a></li>
-  <li><a href="https://iclr.cc/Conferences/2023"><autocolor>International Conference on Learning Representations (ICLR) 2022-2023</autocolor></a></li>
-  <li><a href="https://aaai.org/Conferences/AAAI-24/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2021-2024</autocolor></a></li>
-  <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021-2023</autocolor></a></li>
-  <li><a href="https://2023.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2021-2023</autocolor></a></li>  
+  <li>The Web Conference</li>
+  <li>KDD: ACM Knowledge Discovery and Data Mining</li>
+  <li>IEEE International Conference on Fuzzy Systems</li>
+  <li>WSDM: ACM International Conference on Web Search and Data Mining</li>  
+  
   <!--
   <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
   -->
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Workshop Reviewers</h4>
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
-  <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
-  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
-  <li><a href="https://ieee-cas.org/publications/ieee-transactions-circuits-and-systems-video-technology"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
-  <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
-  <li><a href="https://dl.acm.org/journal/tomm"><autocolor>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/medical-image-analysis"><autocolor>Medical Image Analysis (MedIA)</autocolor></a></li>
+<ul style="margin:0 0 5px;">
+  <li>NewInML at Conference on Neural Information Processing Systems (NeurIPS) 2021 <strong>(reviewer and mentor)</strong></li>
+  <li>Knowledge-Infused Mining and Learning (KiML) at ACM Knowledge Discovery and Data Mining 2020</li>
+  <li>Workshop on Ontology Design and Patterns (WOP) at International Semantic Web Conference (ISWC) 2024</li>  
+  
+  <!--
+  <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
+  <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
+  -->
 </ul>
