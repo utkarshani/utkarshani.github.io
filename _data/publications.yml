@@ -98,7 +98,6 @@ main:
     conference_short: WOP@ISWC
     conference: 14th Workshop on Ontology Design and Patterns – International Semantic Web Conference <strong>(ISWC)</strong>, 2023
     pdf: https://ceur-ws.org/Vol-3636/paper4.pdf
-    slides: https://odpa.github.io/workshop-on-ontology-design-and-patterns/2024/assets/2024-wop-utkarshani.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/wop/JaiminiHS23.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png  
