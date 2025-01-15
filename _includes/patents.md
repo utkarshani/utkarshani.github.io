@@ -6,6 +6,7 @@
 <ul style="margin:0 0 5px;">
   <li>Cory Henson, <strong>Utkarshani Jaimini</strong></li>
   <li>Submitted in 2025, In collaboration with Bosch Center for AI</li>
+  <br />
 </ul>
 
 <h4 style="margin:0 10px 0;">Causal discovery using Knowledge Graph Link Prediction 2024</h4>
@@ -19,6 +20,7 @@
 <ul style="margin:0 0 5px;">
   <li>Cory Henson, <strong>Utkarshani Jaimini</strong></li>
   <li>Submitted in 2024, In collaboration with Bosch Center for AI</li>
+  <br />
 </ul>
 
 <h4 style="margin:0 10px 0;">Knowledge graph for interoperability in industrial metaverse for engineering and design applications</h4>
