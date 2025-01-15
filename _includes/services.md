@@ -5,7 +5,7 @@
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Workshop organizer on <a href="https://sites.google.com/view/causalnesy/">Causal Neuro-Symbolic AI</a> at <a href="https://2025.eswc-conferences.org/">Extended Semantic Web Conference (ESWC) 2025</a>-</li>
+  <li>Workshop organizer on <a href="https://sites.google.com/view/causalnesy/">Causal Neuro-Symbolic AI</a> at <a href="https://2025.eswc-conferences.org/">Extended Semantic Web Conference (ESWC) 2025</a></li>
   <li>Organizer and Moderator: <a href="https://www.linkedin.com/pulse/casy-2-practical-way-look-collaborative-assistants-srivastava/">Conference on Collaboration Assistants for Society (CASY)</a>, AI Institute hosted conference at University of South Carolina 2020 - 2021</li>
 </ul>
 
@@ -41,7 +41,6 @@
   <li>Semantic Web Journal</li>
   <li>Journal of Web Semantics</li>
   <li>JMIR- Journal of Medical Internet Research</li>
-  </li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
@@ -51,7 +50,6 @@
   <li>KDD: ACM Knowledge Discovery and Data Mining</li>
   <li>IEEE International Conference on Fuzzy Systems</li>
   <li>WSDM: ACM International Conference on Web Search and Data Mining</li>  
-  
   <!--
   <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
@@ -64,7 +62,6 @@
   <li>NewInML at Conference on Neural Information Processing Systems (NeurIPS) 2021 <strong>(reviewer and mentor)</strong></li>
   <li>Knowledge-Infused Mining and Learning (KiML) at ACM Knowledge Discovery and Data Mining 2020</li>
   <li>Workshop on Ontology Design and Patterns (WOP) at International Semantic Web Conference (ISWC) 2024</li>  
-  
   <!--
   <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
