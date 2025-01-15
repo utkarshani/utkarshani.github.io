@@ -16,6 +16,7 @@ My research aligns with the vision of leveraging AI to address social disparitie
 
 Beyond academia, I bring significant industry experience through internships at <strong>Bosch Center for AI</strong> and <strong>Siemens</strong>, where I developed innovative solutions such as the [Causal Knowledge Graph](https://ieeexplore.ieee.org/abstract/document/9706608) (CausalKG) for autonomous driving and the MetaverseKG for industrial applications.
 
+[Curriculum Vitae](https://github.com/utkarshani/utkarshani.github.io/blob/main/CurriculumVitae_Utkarshani.pdf), Resume, Research Statement, Research Statement (3 pages), Teaching Statement, Diversity Statement
 <!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email. You may see details [here](./openings/).</strong> -->
 
 {% include_relative _includes/news.md %}
