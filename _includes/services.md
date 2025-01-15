@@ -32,7 +32,7 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li>Nature Digital Medicine</li>
   <li>IEEE Sensors</li>
   <li>Springer Nature Scientific reports</li>
