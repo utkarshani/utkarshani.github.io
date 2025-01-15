@@ -9,4 +9,6 @@ permalink: /teaching/
 <h2 style="margin: 60px 0px -15px;">Teaching</h2>
 <br>
 
-- Spring 2025: [Concepts of Machine Learning](https://yaoyaoliu.web.illinois.edu/teaching/IS327/) (IS327)
+- Fall 2024: Graduate Teaching Instructor for [CSCE145 Algorithmic Design I](https://cse.sc.edu/class/145)
+- Summer 2024: Graduate Teaching Instructor for [AI Summer School for High School Students](https://sites.google.com/view/2024-ai-camp/home?authuser=0)
+- Fall 2020: Graduate Teaching Instructor for [CSCE146 Algorithmic Design II](https://cse.sc.edu/class/146)
