@@ -11,7 +11,7 @@ main:
     url: /talks/
 
   - title: "Patents"
-   url: /patents/
+    url: /patents/
 
   - title: "Publications"
     url: /publications/
