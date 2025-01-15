@@ -10,7 +10,7 @@ main:
     image: https://img.yliu.me/teaser/imagenet3d.png
 
   - title: "Influence of Backdoor Paths on Causal Link Prediction"
-    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth.
+    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: arxiv
     #conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2410.14680
@@ -19,7 +19,7 @@ main:
     image: https://img.yliu.me/teaser/hdr-gs.png
 
   - title: "CausalLP: Learning Causal Relations with Weighted Knowledge Graph Link Prediction"
-    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth.
+    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: arxiv
     #conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
@@ -30,7 +30,7 @@ main:
   - title: "Personalized Bayesian Inference for Explainable Healthcare Management and Intervention"
     authors: <strong>Utkarshani Jaimini</strong>, Krishnaprasad Thirunarayan, Maninder Kalra, Robin Dawson, Amit Sheth
     conference_short: ICHI
-    conference: International Conference on Healthcare Informatics <strong>(ICHI)</strong>, 2024.
+    conference: International Conference on Healthcare Informatics <strong>(ICHI)</strong>, 2024
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10628667
     #code: https://github.com/wufeim/DST3D
     #page: https://ccvl.jhu.edu/3D-DST/
@@ -41,7 +41,7 @@ main:
   - title: "Visual Causal Question and Answering with Knowledge Graph Link Prediction"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: ISWC
-    conference: International Semantic Web Conference <strong>(ISWC)</strong>, 2024.
+    conference: International Semantic Web Conference <strong>(ISWC)</strong>, 2024
     pdf: https://ceur-ws.org/Vol-3828/paper28.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiHS24.html?view=bibtex
@@ -50,7 +50,7 @@ main:
   - title: "Causal Knowledge Graph for Scene Understanding in Autonomous Driving"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: ISWC
-    conference: International Semantic Web Conference <strong>(ISWC)</strong>, 2024.
+    conference: International Semantic Web Conference <strong>(ISWC)</strong>, 2024
     pdf: https://ceur-ws.org/Vol-3828/paper43.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiHS24a.html?view=bibtex
@@ -59,7 +59,7 @@ main:
   - title: "Causal Neuro-Symbolic AI for Root Cause Analysis in Smart Manufacturing"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth, Ramy F. Harik
     conference_short: ISWC
-    conference: International Semantic Web Conference <strong>(ISWC)</strong>, 2024.
+    conference: International Semantic Web Conference <strong>(ISWC)</strong>, 2024
     pdf: https://ceur-ws.org/Vol-3828/paper43.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiHSH24.html?view=bibtex
@@ -68,7 +68,7 @@ main:
   - title: "Ontology Design Metapattern for RelationType Role Composition"
     authors: <strong>Utkarshani Jaimini</strong>, Ruwan Wickramarachchi, Cory Henson, Amit Sheth
     conference_short: WOP@ISWC
-    conference: 15th Workshop on Ontology Design and Patterns – International Semantic Web Conference <strong>(ISWC)</strong>, 2024.
+    conference: 15th Workshop on Ontology Design and Patterns – International Semantic Web Conference <strong>(ISWC)</strong>, 2024
     pdf: https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1635&context=aii_fac_pub
     slides: https://odpa.github.io/workshop-on-ontology-design-and-patterns/2024/assets/2024-wop-utkarshani.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
@@ -78,7 +78,7 @@ main:
   - title: "Causal Neuro-Symbolic AI for Root Cause Analysis in Smart Manufacturing"
     authors: <strong>Utkarshani Jaimini</strong>, Usha Lokala, Kaushik Roy, Amit Sheth
     conference_short: WWW
-    conference: The Web Conference <strong>(WWW)</strong>, 2023.
+    conference: The Web Conference <strong>(WWW)</strong>, 2023
     pdf: https://dl.acm.org/doi/abs/10.1145/3543873.3587713
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/www/FiondaHAACCC0DE23.html?view=bibtex
@@ -87,7 +87,7 @@ main:
  - title: "An Ontology Design Pattern for Representing Causality"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: WOP@ISWC
-    conference: 14th Workshop on Ontology Design and Patterns – International Semantic Web Conference <strong>(ISWC)</strong>, 2023.
+    conference: 14th Workshop on Ontology Design and Patterns – International Semantic Web Conference <strong>(ISWC)</strong>, 2023
     pdf: https://ceur-ws.org/Vol-3636/paper4.pdf
     slides: https://odpa.github.io/workshop-on-ontology-design-and-patterns/2024/assets/2024-wop-utkarshani.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
@@ -97,7 +97,7 @@ main:
   - title: "iMetaverseKG: Industrial Metaverse Knowledge Graph to Promote Interoperability in Design and Engineering Applications"
     authors: <strong>Utkarshani Jaimini</strong>, Tongtao Zhang, Georgia Olympia Brikis,  Amit Sheth
     conference_short: IEEE Internet Computing
-    conference: IEEE Internet Computing Volume 26 Issue 6 2022.
+    conference: IEEE Internet Computing Volume 26 Issue 6 2022
     pdf: https://ieeexplore.ieee.org/abstract/document/10018009/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/journals/internet/JaiminiZBS22.html?view=bibtex
@@ -106,7 +106,7 @@ main:
   - title: "CausalKG: Causal Knowledge Graph Explainability using interventional and counterfactual reasoning"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth
     conference_short: IEEE Internet Computing
-    conference: IEEE Internet Computing Volume 26 Issue 1 2022.
+    conference: IEEE Internet Computing Volume 26 Issue 1 2022
     pdf: https://ieeexplore.ieee.org/abstract/document/9706608/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/journals/internet/JaiminiS22.html?view=bibtex
@@ -115,7 +115,7 @@ main:
 - title: "MetaverseKG: Knowledge Graph for Engineering and Design Application in Industrial Metaverse"
     authors: <strong>Utkarshani Jaimini</strong>, Tongtao Zhang, Georgia Olympia Brikis
     conference_short: ISWC
-    conference: International Semantic Web Conference <strong>(ISWC)</strong>, 2022.
+    conference: International Semantic Web Conference <strong>(ISWC)</strong>, 2022
     pdf: https://ceur-ws.org/Vol-3254/paper406.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiZB22.html?view=bibtex
