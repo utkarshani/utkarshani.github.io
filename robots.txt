@@ -15,4 +15,4 @@ Disallow: /.github/
 Disallow: /git-update.sh
 Disallow: /README.md
 
-Sitemap: https://yaoyaoliu.web.illinois.edu/sitemap.xml
+Sitemap: https://utkarshani.github.io/sitemap.xml
