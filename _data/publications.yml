@@ -38,7 +38,16 @@ main:
     bibtex: https://dblp.org/rec/conf/ichi/JaiminiTKDS24.html?view=bibtex
     image: https://img.yliu.me/teaser/dst.png
     #notes: Spotlight
-
+    
+ - title: "Causal Neurosymbolic AI: A Synergy Between Causality and Neurosymbolic Methods"
+    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
+    conference_short: IEEE Intelligent Systems
+    conference: IEEE Intelligent Systems Volume 3 Issue 3, 2024
+    pdf: https://ieeexplore.ieee.org/document/10570374
+    #code: https://github.com/yaoyao-liu/online-placebos
+    bibtex: https://dblp.org/rec/journals/expert/JaiminiHS24.html?view=bibtex
+    image: https://img.yliu.me/placebos_wacv24.png  
+    
   - title: "Visual Causal Question and Answering with Knowledge Graph Link Prediction"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: ISWC
@@ -76,10 +85,10 @@ main:
     #bibtex: https://dblp.org/rec/journals/expert/JaiminiHS24.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png  
   
-  - title: "Causal Neuro-Symbolic AI for Root Cause Analysis in Smart Manufacturing"
+  - title: "Causal AI for Web and Healthcare"
     authors: <strong>Utkarshani Jaimini</strong>, Usha Lokala, Kaushik Roy, Amit Sheth
     conference_short: WWW
-    conference: The Web Conference <strong>(WWW)</strong>, 2023
+    conference: Tutorial at The Web Conference <strong>(WWW)</strong>, 2023
     pdf: https://dl.acm.org/doi/abs/10.1145/3543873.3587713
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/www/FiondaHAACCC0DE23.html?view=bibtex
