@@ -5,9 +5,9 @@
 <h4 style="margin:0 10px 0;">Causal Neuro-Symbolic AI: Synergy between Neuro-Symbolic and Causal AI and its Industrial Applications</h4>
 <br />
 <ul style="margin:0 0 5px;">
-  <li>Guest Lecture for CSCE 791 Seminar in Advances in Computing at University of South Carolina, December 2024. <a href="https://youtu.be/aFYlBKGcbFA?feature=shared">Video</a></li>
+  <li>Guest Lecture for <strong>CSCE 791 Seminar in Advances in Computing</strong> at University of South Carolina, December 2024. <a href="https://youtu.be/aFYlBKGcbFA?feature=shared">Video</a></li>
   <br />
-  <li>Invited Speaker at Shell Technology Center, Houston, Texas, July 2024.</li>
+  <li>Invited Speaker at <strong>Shell Technology Center</strong>, Houston, Texas, July 2024.</li>
   <br />
 </ul>
 
