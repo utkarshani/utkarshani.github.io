@@ -1,7 +1,7 @@
 main:
 
-  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
-    authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
+  - title: "HyperCausalLP: Causal Link Prediction using Hyper-Relational Knowledge Graph"
+    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, and Amit Sheth
     conference_short: NeurIPS
     conference: NeurIPS 2024 Datasets and Benchmarks Track.
     pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
