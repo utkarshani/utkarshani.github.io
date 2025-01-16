@@ -146,7 +146,7 @@ main:
     pdf: https://www.intechopen.com/chapters/76503
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:H4-gr_v41HwJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsdg-s:AFWwaeYAAAAAZ4gbm-sHEcIHB7FzPQEdGpLKPE8&scisig=AFWwaeYAAAAAZ4gbm8kM_4BTdcnGUPJFQspEyjE&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: /assets/img/kHealthArchitecture.jpeg
+    image: /assets/img/kHealthManagement.png
 
   - title: "Personalized Healthcare and Causal Intervention"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth, Krishnaprasad Thirunarayan, Maninder Kalra, Marco Valtorta
@@ -155,7 +155,7 @@ main:
     #pdf: https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1621&context=aii_fac_pub
     #code: https://github.com/yaoyao-liu/online-placebos
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:D0x6PU9hR5IJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsaMa4:AFWwaeYAAAAAZ4gcKa6qDmdTgLxTtXPjPRUryPA&scisig=AFWwaeYAAAAAZ4gcKdC0nsoJ-J14iWmvxEb0lJ8&scisf=4&ct=citation&cd=-1&hl=en&authuser=1    
-    image: /assets/img/kHealthArchitecture.jpeg     
+    image: /assets/img/SmartComp.jpg       
       
   - title: "Is it Safe for My Child’s Asthma?"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth, Krishnaprasad Thirunarayan, Maninder Kalra, Marco Valtorta
@@ -200,7 +200,7 @@ main:
     pdf: https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2018.197.1_MeetingAbstracts.A2031
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CbGR85PLSkMJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsZbEE:AFWwaeYAAAAAZ4gfdEG4VBTfP8g9Vxzitg-Kdxs&scisig=AFWwaeYAAAAAZ4gfdDasXV2iHwd8nmRyqqrKjf0&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: /assets/img/kHealthArchitecture.jpeg  
+    image: /assets/img/Correlation.jpeg
       
   - title: "Feasibility of recording sleep quality and sleep duration using fitbit in children with asthma"
     authors: Amit Sheth, Hong Y Yip, <strong>Utkarshani Jaimini</strong>, Dipesh Kadariya, Vaikunth Sridharan, Revathy Venkataramanan, Tanvi Banerjee, Krishnaprasad Thirunarayan, Maninder Kalra
@@ -209,7 +209,7 @@ main:
     pdf: https://drive.google.com/file/u/1/d/19TlTH0af68X6a50q4F19wzshQnfFn0L0/view
     #code: https://github.com/yaoyao-liu/online-placebos
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CbGR85PLSkMJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsZbEE:AFWwaeYAAAAAZ4gfdEG4VBTfP8g9Vxzitg-Kdxs&scisig=AFWwaeYAAAAAZ4gfdDasXV2iHwd8nmRyqqrKjf0&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: /assets/img/kHealthArchitecture.jpeg    
+    image: /assets/img/FitbitSleep.png    
 
   - title: "Augmented personalized health: How smart data with IoTs and AI is about to change healthcare"
     authors: Amit Sheth, <strong>Utkarshani Jaimini</strong>, Krishnaprasad Thirunarayan, Tanvi Banerjee
@@ -218,7 +218,7 @@ main:
     pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC5796671/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/rtsi/ShethJTB17.html?view=bibtex
-    image: /assets/img/kHealthArchitecture.jpeg    
+    image: /assets/img/Augmented.png   
 
   - title: "A multisensory approach to monitor bariatric patient’s postsurgical behavior and lessen weight recidivism"
     authors: Sarah Sohail, Joon Shim, Revathy Venkataramanan, <strong>Utkarshani Jaimini</strong>, Dene Berman, Priti Parikh, Amit Sheth
