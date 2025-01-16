@@ -25,7 +25,7 @@ main:
     pdf: https://ceur-ws.org/Vol-3828/paper43.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiHS24a.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png  
+    image: /assets/img/Causal_AD.png
 
   - title: "Causal Neuro-Symbolic AI for Root Cause Analysis in Smart Manufacturing"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth, Ramy F. Harik
@@ -34,7 +34,7 @@ main:
     pdf: https://ceur-ws.org/Vol-3828/paper43.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiHSH24.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png  
+    image: /assets/img/SmartManufacturingCycleState.png
 
   - title: "Personalized Bayesian Inference for Explainable Healthcare Management and Intervention"
     authors: <strong>Utkarshani Jaimini</strong>, Krishnaprasad Thirunarayan, Maninder Kalra, Robin Dawson, Amit Sheth
@@ -44,7 +44,7 @@ main:
     #code: https://github.com/wufeim/DST3D
     #page: https://ccvl.jhu.edu/3D-DST/
     bibtex: https://dblp.org/rec/conf/ichi/JaiminiTKDS24.html?view=bibtex
-    image: https://img.yliu.me/teaser/dst.png
+    image: /assets/img/Correlation.jpeg
     #notes: Spotlight
     
   - title: "HyperCausalLP: Causal Link Prediction using Hyper-Relational Knowledge Graph"
@@ -55,7 +55,7 @@ main:
     bibtex: https://dblp.org/rec/journals/corr/abs-2410-14679.html?view=bibtex
     #data: https://github.com/wufeim/imagenet3d
     #page: https://imagenet3d.github.io/
-    image: https://img.yliu.me/teaser/imagenet3d.png
+    image: /assets/img/HyperCausalLP.png
   
   - title: "Influence of Backdoor Paths on Causal Link Prediction"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
@@ -64,7 +64,7 @@ main:
     pdf: https://arxiv.org/pdf/2410.14680
     bibtex: https://dblp.org/rec/journals/corr/abs-2410-14680.html?view=bibtex
     #code: https://github.com/caiyuanhao1998/HDR-GS
-    image: https://img.yliu.me/teaser/hdr-gs.png
+    image: /assets/img/CEGSplit.png
 
   - title: "CausalLP: Learning Causal Relations with Weighted Knowledge Graph Link Prediction"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
@@ -73,7 +73,7 @@ main:
     pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
     bibtex: https://arxiv.org/pdf/2405.02327
     #code: https://github.com/Fischer-Tom/iNeMo
-    image: https://img.yliu.me/teaser/iNeMo.png
+    image: /assets/img/CausalDiscoveryArchitecture.png
     
   - title: "Ontology Design Metapattern for RelationType Role Composition"
     authors: <strong>Utkarshani Jaimini</strong>, Ruwan Wickramarachchi, Cory Henson, Amit Sheth
@@ -83,7 +83,7 @@ main:
     slides: https://odpa.github.io/workshop-on-ontology-design-and-patterns/2024/assets/2024-wop-utkarshani.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     #bibtex: https://dblp.org/rec/journals/expert/JaiminiHS24.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png  
+    image: /assets/img/MetaPattern.png
     
   - title: "Causal AI for Web and Healthcare"
     authors: <strong>Utkarshani Jaimini</strong>, Usha Lokala, Kaushik Roy, Amit Sheth
@@ -92,7 +92,7 @@ main:
     pdf: https://dl.acm.org/doi/abs/10.1145/3543873.3587713
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/www/FiondaHAACCC0DE23.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png 
+    image: /assets/img/CausalAITutorial.png
 
   - title: "An Ontology Design Pattern for Representing Causality"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
@@ -101,7 +101,7 @@ main:
     pdf: https://ceur-ws.org/Vol-3636/paper4.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/wop/JaiminiHS23.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png  
+    image: /assets/img/Causal-ODP-with-hyper-relation.png
 
   - title: "iMetaverseKG: Industrial Metaverse Knowledge Graph to Promote Interoperability in Design and Engineering Applications"
     authors: <strong>Utkarshani Jaimini</strong>, Tongtao Zhang, Georgia Olympia Brikis,  Amit Sheth
@@ -110,7 +110,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10018009/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/journals/internet/JaiminiZBS22.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png 
+    image: /assets/img/MetaverseArticle.png
 
   - title: "CausalKG: Causal Knowledge Graph Explainability using interventional and counterfactual reasoning"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth
@@ -119,8 +119,8 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/9706608/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/journals/internet/JaiminiS22.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png 
-
+    image: /assets/img/CausalKG_Supp.png
+    
   - title: "MetaverseKG: Knowledge Graph for Engineering and Design Application in Industrial Metaverse"
     authors: <strong>Utkarshani Jaimini</strong>, Tongtao Zhang, Georgia Olympia Brikis
     conference_short: ISWC
@@ -128,7 +128,7 @@ main:
     pdf: https://ceur-ws.org/Vol-3254/paper406.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiZB22.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png 
+    image: /assets/img/MetaverseISWC.png
 
   - title: "Reasoning over personalized healthcare knowledge graph: a case study of patients with allergies and symptoms"
     authors: Amelie Gyrard, <strong>Utkarshani Jaimini</strong>, Manas Gaur, Saeedeh Shekharpour, Krishnaprasad Thirunarayan, Amit Sheth
@@ -137,8 +137,8 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/B9780323917735000169
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:lWe9iSOiBTwJ:scholar.google.com/&output=citation&scisdr=ClExlcfJEIiRnDse6YY:AFWwaeYAAAAAZ4gY8YYgul4zGrfMb02by4xDlq0&scisig=AFWwaeYAAAAAZ4gY8UhuV7wk0HiTuI7PRhZ0JRw&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: https://img.yliu.me/placebos_wacv24.png 
-
+    image: /assets/img/kHealthArchitecture.jpeg
+    
   - title: "Personalized Digital Phenotype Score, Healthcare Management and Intervention Strategies Using Knowledge Enabled Digital Health Framework for Pediatric Asthmas"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth
     conference_short: Book Chapter
@@ -146,7 +146,7 @@ main:
     pdf: https://www.intechopen.com/chapters/76503
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:H4-gr_v41HwJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsdg-s:AFWwaeYAAAAAZ4gbm-sHEcIHB7FzPQEdGpLKPE8&scisig=AFWwaeYAAAAAZ4gbm8kM_4BTdcnGUPJFQspEyjE&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: https://img.yliu.me/placebos_wacv24.png   
+    image: /assets/img/kHealthArchitecture.jpeg
 
   - title: "Personalized Healthcare and Causal Intervention"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth, Krishnaprasad Thirunarayan, Maninder Kalra, Marco Valtorta
@@ -155,7 +155,7 @@ main:
     #pdf: https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1621&context=aii_fac_pub
     #code: https://github.com/yaoyao-liu/online-placebos
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:D0x6PU9hR5IJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsaMa4:AFWwaeYAAAAAZ4gcKa6qDmdTgLxTtXPjPRUryPA&scisig=AFWwaeYAAAAAZ4gcKdC0nsoJ-J14iWmvxEb0lJ8&scisf=4&ct=citation&cd=-1&hl=en&authuser=1    
-    image: https://img.yliu.me/placebos_wacv24.png     
+    image: /assets/img/kHealthArchitecture.jpeg     
       
   - title: "Is it Safe for My Child’s Asthma?"
     authors: <strong>Utkarshani Jaimini</strong>, Amit Sheth, Krishnaprasad Thirunarayan, Maninder Kalra, Marco Valtorta
@@ -164,7 +164,7 @@ main:
     pdf: https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1621&context=aii_fac_pub
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:D0x6PU9hR5IJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsaMa4:AFWwaeYAAAAAZ4gcKa6qDmdTgLxTtXPjPRUryPA&scisig=AFWwaeYAAAAAZ4gcKdC0nsoJ-J14iWmvxEb0lJ8&scisf=4&ct=citation&cd=-1&hl=en&authuser=1    
-    image: https://img.yliu.me/placebos_wacv24.png     
+    image: /assets/img/kHealthArchitecture.jpeg     
 
   - title: "Determination of personalized asthma triggers from multimodal sensing and a mobile app: observational study"
     authors: Revathy Venkataramanan, Krishnaprasad Thirunarayan, <strong>Utkarshani Jaimini</strong>, Dipesh Kadariya, Hong Yung Yip, Maninder Kalra, Amit Sheth
@@ -173,7 +173,7 @@ main:
     pdf: https://pediatrics.jmir.org/2019/1/e14300
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/journals/corr/abs-1811-10073.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png     
+    image: /assets/img/Dashboard.png     
 
   - title: "How Is My Child’s Asthma?” digital phenotype and actionable insights for pediatric asthma"
     authors: <strong>Utkarshani Jaimini</strong>, Krishnaprasad Thirunarayan, Maninder Kalra, Revathy Venkataraman, Dipesh Kadariya, Amit Sheth
@@ -182,7 +182,7 @@ main:
     pdf: https://pediatrics.jmir.org/2018/2/e11988/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0njBsf249w8J:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsYBCI:AFWwaeYAAAAAZ4geHCJ6gwy2X3LHX6f4s9fosEk&scisig=AFWwaeYAAAAAZ4geHKoreolt-JX3JFQrrhsRhyk&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: https://img.yliu.me/placebos_wacv24.png     
+    image: /assets/img/DigitalPhenotype.png
 
   - title: "How will the internet of things enable augmented personalized health?"
     authors: Amit Sheth, <strong>Utkarshani Jaimini</strong>, Hong Yung Yip
@@ -191,7 +191,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/8355891/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/journals/expert/ShethJY18.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png     
+    image: /assets/img/Augmented.jpg     
 
   - title: "Correlating Multimodal Signals with Asthma Control in Children Using kHealth Personalized Digital Health System"
     authors: Maninder S Kalra, Amit Sheth, Tanvi Banerjee, <strong>Utkarshani Jaimini</strong>, Dipesh Kadariya, Vaikunth Sridharan, Krishnaprasad Thirunarayam, Revathy Venkataramanan, Hong Yung Yip
@@ -200,7 +200,7 @@ main:
     pdf: https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2018.197.1_MeetingAbstracts.A2031
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CbGR85PLSkMJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsZbEE:AFWwaeYAAAAAZ4gfdEG4VBTfP8g9Vxzitg-Kdxs&scisig=AFWwaeYAAAAAZ4gfdDasXV2iHwd8nmRyqqrKjf0&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: https://img.yliu.me/placebos_wacv24.png    
+    image: /assets/img/kHealthArchitecture.jpeg  
       
   - title: "Feasibility of recording sleep quality and sleep duration using fitbit in children with asthma"
     authors: Amit Sheth, Hong Y Yip, <strong>Utkarshani Jaimini</strong>, Dipesh Kadariya, Vaikunth Sridharan, Revathy Venkataramanan, Tanvi Banerjee, Krishnaprasad Thirunarayan, Maninder Kalra
@@ -209,7 +209,7 @@ main:
     pdf: https://drive.google.com/file/u/1/d/19TlTH0af68X6a50q4F19wzshQnfFn0L0/view
     #code: https://github.com/yaoyao-liu/online-placebos
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CbGR85PLSkMJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsZbEE:AFWwaeYAAAAAZ4gfdEG4VBTfP8g9Vxzitg-Kdxs&scisig=AFWwaeYAAAAAZ4gfdDasXV2iHwd8nmRyqqrKjf0&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: https://img.yliu.me/placebos_wacv24.png    
+    image: /assets/img/kHealthArchitecture.jpeg    
 
   - title: "Augmented personalized health: How smart data with IoTs and AI is about to change healthcare"
     authors: Amit Sheth, <strong>Utkarshani Jaimini</strong>, Krishnaprasad Thirunarayan, Tanvi Banerjee
@@ -218,7 +218,7 @@ main:
     pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC5796671/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/rtsi/ShethJTB17.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png    
+    image: /assets/img/kHealthArchitecture.jpeg    
 
   - title: "A multisensory approach to monitor bariatric patient’s postsurgical behavior and lessen weight recidivism"
     authors: Sarah Sohail, Joon Shim, Revathy Venkataramanan, <strong>Utkarshani Jaimini</strong>, Dene Berman, Priti Parikh, Amit Sheth
@@ -227,7 +227,7 @@ main:
     pdf: https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?filename=0&article=1721&context=surg&type=additional
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:9AMg6iA0qNgJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsmyJY:AFWwaeYAAAAAZ4gg0JYYTPmTYzpSIKO2yhTq34U&scisig=AFWwaeYAAAAAZ4gg0JIn9HeXMfi5l8j-cEP32rA&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: https://img.yliu.me/placebos_wacv24.png 
+    image: /assets/img/Bariatrics.png 
 
   - title: "PhD forum: Multimodal IoT and EMR based smart health application for asthma management in children"
     authors: <strong>Utkarshani Jaimini</strong>
@@ -236,7 +236,7 @@ main:
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5806526/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/smartcomp/Jaimini17.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png    
+    image: /assets/img/SmartComp.jpg    
 
   - title: "Investigation of an Indoor Air Quality Sensor for Asthma Management in Children"
     authors: <strong>Utkarshani Jaimini</strong>
@@ -245,7 +245,7 @@ main:
     pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC5658018/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xiliZ07leg0J:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDsni_0:AFWwaeYAAAAAZ4ghk_01WxaGCSs04hxGIXUYeFY&scisig=AFWwaeYAAAAAZ4ghk3y_ANy7VkytcFh-dEY3B00&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: https://img.yliu.me/placebos_wacv24.png  
+    image: /assets/img/IndoorFoobot.jpg  
 
   - title: "Research network analyses of Indian computer science researchers: Problems and solutions"
     authors: <strong>Utkarshani Jaimini</strong>, Varun Kumar Ojha, Millie Pant, Ajith Abraham
@@ -254,7 +254,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/7100489/
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ttt8bPQCyGUJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDskC1A:AFWwaeYAAAAAZ4giE1Dbr6CsXiPmHTOuFuXI0FA&scisig=AFWwaeYAAAAAZ4giE4eQv_JjuIicc7BffIaBuTo&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
-    image: https://img.yliu.me/placebos_wacv24.png    
+    image: /assets/img/ResearchNetwork.png    
 
   - title: "Wisdom application in Swarm: A WisSwarm Approach"
     authors: <strong>Utkarshani Jaimini</strong>, Vinod Kumar Panchal
@@ -263,7 +263,7 @@ main:
     pdf: https://www.researchgate.net/profile/Utkarshani-Jaimini/publication/269310211_Wisdom_application_in_Swarm_A_WisSwarm_Approach/links/5c87feada6fdcc38174f8cf2/Wisdom-application-in-Swarm-A-WisSwarm-Approach.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:VAq05d5btsEJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDskfyA:AFWwaeYAAAAAZ4giZyBdWV0Iuo4wHI6W1XoJG8U&scisig=AFWwaeYAAAAAZ4giZ9I2vxijASHiSPUUgzDgY6M&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1    
-    image: https://img.yliu.me/placebos_wacv24.png  
+    image: /assets/img/Wisdom.png    
 
   - title: "Swarm Intelligence computational paradigm"
     authors: <strong>Utkarshani Jaimini</strong>, Vinod Kumar Panchal
@@ -271,4 +271,4 @@ main:
     conference: IEEE International Conference on Emerging Trends in Communication, Control, Signal Processing and Computing Applications <strong>(C2SPCA)</strong>, 2013
     pdf: https://www.researchgate.net/profile/Utkarshani-Jaimini/publication/269073808_Swarm_Intelligence_computational_paradigm/links/570b010208aed09e917169ae/Swarm-Intelligence-computational-paradigm.pdf    #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:1MLQ6B94dsYJ:scholar.google.com/&output=citation&scisdr=ClH8TWiGEIiRnDskx-M:AFWwaeYAAAAAZ4gi3-M_7rIT8WlHe6L2MVkzblA&scisig=AFWwaeYAAAAAZ4gi39xpYEBCeviZQhQ_iEU2Lhs&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1    
-    image: https://img.yliu.me/placebos_wacv24.png  
+    image: /assets/img/Swarm.png    
