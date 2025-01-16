@@ -6,7 +6,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10570374
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/journals/expert/JaiminiHS24.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png  
+    image: ./assests/img/CausalNeSy.png
       
   - title: "Visual Causal Question and Answering with Knowledge Graph Link Prediction"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
