@@ -1,43 +1,4 @@
 main:
-  - title: "HyperCausalLP: Causal Link Prediction using Hyper-Relational Knowledge Graph"
-    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
-    conference_short: arxiv
-    #conference: NeurIPS 2024 Datasets and Benchmarks Track.
-    pdf: https://arxiv.org/pdf/2410.14679
-    bibtex: https://dblp.org/rec/journals/corr/abs-2410-14679.html?view=bibtex
-    #data: https://github.com/wufeim/imagenet3d
-    #page: https://imagenet3d.github.io/
-    image: https://img.yliu.me/teaser/imagenet3d.png
-
-  - title: "Influence of Backdoor Paths on Causal Link Prediction"
-    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
-    conference_short: arxiv
-    #conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2410.14680
-    bibtex: https://dblp.org/rec/journals/corr/abs-2410-14680.html?view=bibtex
-    #code: https://github.com/caiyuanhao1998/HDR-GS
-    image: https://img.yliu.me/teaser/hdr-gs.png
-
-  - title: "CausalLP: Learning Causal Relations with Weighted Knowledge Graph Link Prediction"
-    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
-    conference_short: arxiv
-    #conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
-    bibtex: https://arxiv.org/pdf/2405.02327
-    #code: https://github.com/Fischer-Tom/iNeMo
-    image: https://img.yliu.me/teaser/iNeMo.png
-    
-  - title: "Personalized Bayesian Inference for Explainable Healthcare Management and Intervention"
-    authors: <strong>Utkarshani Jaimini</strong>, Krishnaprasad Thirunarayan, Maninder Kalra, Robin Dawson, Amit Sheth
-    conference_short: ICHI
-    conference: International Conference on Healthcare Informatics <strong>(ICHI)</strong>, 2024
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10628667
-    #code: https://github.com/wufeim/DST3D
-    #page: https://ccvl.jhu.edu/3D-DST/
-    bibtex: https://dblp.org/rec/conf/ichi/JaiminiTKDS24.html?view=bibtex
-    image: https://img.yliu.me/teaser/dst.png
-    #notes: Spotlight
-    
   - title: "Causal Neurosymbolic AI: A Synergy Between Causality and Neurosymbolic Methods"
     authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
     conference_short: IEEE Intelligent Systems
@@ -75,6 +36,45 @@ main:
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiHSH24.html?view=bibtex
     image: https://img.yliu.me/placebos_wacv24.png  
 
+  - title: "Personalized Bayesian Inference for Explainable Healthcare Management and Intervention"
+    authors: <strong>Utkarshani Jaimini</strong>, Krishnaprasad Thirunarayan, Maninder Kalra, Robin Dawson, Amit Sheth
+    conference_short: ICHI
+    conference: International Conference on Healthcare Informatics <strong>(ICHI)</strong>, 2024
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10628667
+    #code: https://github.com/wufeim/DST3D
+    #page: https://ccvl.jhu.edu/3D-DST/
+    bibtex: https://dblp.org/rec/conf/ichi/JaiminiTKDS24.html?view=bibtex
+    image: https://img.yliu.me/teaser/dst.png
+    #notes: Spotlight
+    
+  - title: "HyperCausalLP: Causal Link Prediction using Hyper-Relational Knowledge Graph"
+    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
+    conference_short: arxiv
+    #conference: NeurIPS 2024 Datasets and Benchmarks Track.
+    pdf: https://arxiv.org/pdf/2410.14679
+    bibtex: https://dblp.org/rec/journals/corr/abs-2410-14679.html?view=bibtex
+    #data: https://github.com/wufeim/imagenet3d
+    #page: https://imagenet3d.github.io/
+    image: https://img.yliu.me/teaser/imagenet3d.png
+  
+  - title: "Influence of Backdoor Paths on Causal Link Prediction"
+    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
+    conference_short: arxiv
+    #conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2410.14680
+    bibtex: https://dblp.org/rec/journals/corr/abs-2410-14680.html?view=bibtex
+    #code: https://github.com/caiyuanhao1998/HDR-GS
+    image: https://img.yliu.me/teaser/hdr-gs.png
+
+  - title: "CausalLP: Learning Causal Relations with Weighted Knowledge Graph Link Prediction"
+    authors: <strong>Utkarshani Jaimini</strong>, Cory Henson, Amit Sheth
+    conference_short: arxiv
+    #conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
+    bibtex: https://arxiv.org/pdf/2405.02327
+    #code: https://github.com/Fischer-Tom/iNeMo
+    image: https://img.yliu.me/teaser/iNeMo.png
+    
   - title: "Ontology Design Metapattern for RelationType Role Composition"
     authors: <strong>Utkarshani Jaimini</strong>, Ruwan Wickramarachchi, Cory Henson, Amit Sheth
     conference_short: WOP@ISWC
