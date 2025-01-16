@@ -15,7 +15,7 @@ main:
     pdf: https://ceur-ws.org/Vol-3828/paper28.pdf
     #code: https://github.com/yaoyao-liu/online-placebos
     bibtex: https://dblp.org/rec/conf/semweb/JaiminiHS24.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png
+    image: ./assests/img/VisualCausalQA_DemoFigure.png
     demo: https://youtu.be/Q88IsGsedGo?feature=shared
 
   - title: "Causal Knowledge Graph for Scene Understanding in Autonomous Driving"
