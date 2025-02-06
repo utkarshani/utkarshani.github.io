@@ -1,6 +1,7 @@
 <h2 style="margin: 40px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Feb 2025]</strong> Our Tutorial on Multi-agent Co-pilot in Industrial AI Applications accepted at <a href="https://2025.eswc-conferences.org/">AAMAS 2025</a>.</li>
 <li><strong>[Jan. 2025]</strong> Our workshop on <a href="https://sites.google.com/view/causalnesy/">Causal Neuro-Symbolic AI (CausalNeSy)</a>  accepted at <a href="https://2025.eswc-conferences.org/">ESWC 2025</a>.</li>
 <li><strong>[Nov. 2024]</strong> Presentedd our work on <a href="https://ieeexplore.ieee.org/document/10570374">Causal Neuro-Symbolic AI for industrial application</a> at <a href="https://www.causalscience.org/"> 4th Causal Data Sciene Meeting 2024</a>. </li>
 <li><strong>[Nov. 2024]</strong> Success at <a href="https://iswc2024.semanticweb.org/">ISWC 2024</a>!</li>
