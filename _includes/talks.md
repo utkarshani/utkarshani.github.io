@@ -2,6 +2,13 @@
 
 <h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
 
+<h4 style="margin:0 10px 0;">Podcast interview on Causal Neuro-Symbolic AI: Synergy between Neuro-Symbolic and Causal AI by Data Skeptic</h4>
+<br />
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.youtube.com/watch?v=cVXSK20y-eg"> Youtube link </a>  and <a href="https://podcasts.apple.com/us/podcast/graphs-for-causal-ai/id890348705?i=1000709692552"> Apple podcast link </a></li>
+  <br />
+</ul>
+
 <h4 style="margin:0 10px 0;">Causal Neuro-Symbolic AI: Synergy between Neuro-Symbolic and Causal AI and its Industrial Applications</h4>
 <br />
 <ul style="margin:0 0 5px;">
