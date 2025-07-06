@@ -6,7 +6,8 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;"></h2>
 
-I am a Ph.D. candidate at the [AI Institute, University of South Carolina](https://aiisc.ai/), where I am fortunate to be advised by [Dr. Amit Sheth](https://amit.aiisc.ai/). My research focuses on advancing Neuro-symbolic AI by integrating causal reasoning to improve explainability, robustness, and human-like understanding in AI systems. 
+I am an Assistant Professor at the [Department of Computer and Information Science, University of Michigan-Dearborn](https://mcommunity.umich.edu/person/jaimini) starting Fall 2025. 
+I completed my Ph.D. from the [AI Institute, University of South Carolina](https://aiisc.ai/), where I was fortunate to be advised by [Dr. Amit Sheth](https://amit.aiisc.ai/). My research focuses on advancing Neuro-symbolic AI by integrating causal reasoning to improve explainability, robustness, and human-like understanding in AI systems. 
 
 My dissertation, *[Causal Neuro-symbolic AI](https://ieeexplore.ieee.org/document/10570374)* (CausalNeSy), introduces a novel framework for embedding causal knowledge into AI systems. This approach enables a deeper understanding of phenomena and situations by integrating domain expertise through human-in-the-loop models or leveraging information from knowledge graphs. My work aims to develop user-explainable causal models and systems, addressing complex real-world problems across diverse domains.
 
