@@ -1,7 +1,7 @@
 <h2 style="margin: 40px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Jan. 2025]</strong> Podcast interview on Causal Neuro-Symbolic AI (CausalNeSy) by Data Skeptic podcast team<a href="https://www.youtube.com/watch?v=cVXSK20y-eg"> Youtube link </a> <a href="https://podcasts.apple.com/us/podcast/graphs-for-causal-ai/id890348705?i=1000709692552"> Apple podcast link </a>.</li>  
+<li><strong>[Jan. 2025]</strong> Podcast interview on Causal Neuro-Symbolic AI (CausalNeSy) by Data Skeptic podcast team. <a href="https://www.youtube.com/watch?v=cVXSK20y-eg"> Youtube link </a>  and <a href="https://podcasts.apple.com/us/podcast/graphs-for-causal-ai/id890348705?i=1000709692552"> Apple podcast link </a>.</li>  
 <li><strong>[Jan. 2025]</strong> Successly lead the 1st workshop on <a href="https://sites.google.com/view/causalnesy/program">Causal Neuro-Symbolic AI (CausalNeSy)</a> at <a href="https://2025.eswc-conferences.org/">ESWC 2025</a>. Check website for keynote talks and presentations.</li>  
 <li><strong>[Feb 2025]</strong> Our Tutorial on Multi-agent Co-pilot in Industrial AI Applications accepted at <a href="https://aiisc.ai/tutorials/AAMAS_Tutorial_Multiagent_CoPilot_in_Industrial_AI_Applications/">AAMAS 2025</a>.</li>
 <li><strong>[Jan. 2025]</strong> Our workshop on <a href="https://sites.google.com/view/causalnesy/">Causal Neuro-Symbolic AI (CausalNeSy)</a>  accepted at <a href="https://2025.eswc-conferences.org/">ESWC 2025</a>.</li>
