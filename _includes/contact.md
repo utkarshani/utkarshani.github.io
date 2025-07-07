@@ -6,8 +6,7 @@
    4901 Evergreen Road, Rm 130 CIS <br /> 
    Dearborn, MI 48128  <br /> 
 <strong>Email:</strong> <email>jaimini (at) umich.edu</email>
-<br />
-<strong>Phone:</strong> (937) 972-8652</p>
+</p>
 
 <!-- 
 <p><strong>Mailing Address:</strong> AI Institute, UofSC (AIISC), 1112 Greene St. Columbia, SC  29208  
