@@ -6,7 +6,7 @@
    4901 Evergreen Road, Rm 130 CIS <br /> 
    Dearborn, MI 48128  <br /> 
 <strong>Email:</strong> <email>jaimini (at) umich.edu</email> <br />
-<strong>Schedule a meeting: <a href="https://calendar.app.google/yreviDFZUuzEjxJh6">Calendar link</a>
+<strong>Schedule a meeting: <a href="https://calendar.app.google/yreviDFZUuzEjxJh6">Calendar link</a></strong>
 </p>
 
 <!-- 
