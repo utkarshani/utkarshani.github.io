@@ -6,7 +6,12 @@ permalink: /teaching/
 
 <h1 id="teaching"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Teaching</h2>
+<h2 style="margin: 60px 0px -15px;">Teaching at University of Michigan - Dearborn</h2>
+<br>
+
+- Fall 2025: Graduate course [CIS579-001 Artificial Intelligence](https://umdearborn.edu/cecs/departments/computer-and-information-science/graduate-programs)
+
+<h2 style="margin: 60px 0px -15px;">Teaching at University of South Carolina</h2>
 <br>
 
 - Fall 2024: Graduate Teaching Instructor for [CSCE145 Algorithmic Design I](https://cse.sc.edu/class/145)
