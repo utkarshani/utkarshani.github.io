@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;"></h2>
 
-I am an Assistant Professor at the [Department of Computer and Information Science, University of Michigan-Dearborn](https://mcommunity.umich.edu/person/jaimini), begining Fall 2025. 
+I am a full-time, tenure-track Assistant Professor at the [Department of Computer and Information Science, University of Michigan-Dearborn](https://mcommunity.umich.edu/person/jaimini), begining Fall 2025. 
 
 I completed my Ph.D. from the [AI Institute, University of South Carolina](https://aiisc.ai/), where I was fortunate to be advised by [Dr. Amit Sheth](https://amit.aiisc.ai/). My research focuses on advancing Neuro-symbolic AI by integrating causal reasoning to improve explainability, robustness, and human-like understanding in AI systems. 
 
